@@ -32,7 +32,7 @@ require (
 	github.com/vishvananda/netlink v1.2.1-beta.2
 	golang.org/x/net v0.34.0
 	golang.org/x/oauth2 v0.21.0
-	golang.org/x/sys v0.30.0
+	golang.org/x/sys v0.36.0
 	google.golang.org/grpc v1.65.0
 	gopkg.in/cheggaaa/pb.v1 v1.0.28
 	gopkg.in/yaml.v3 v3.0.1
